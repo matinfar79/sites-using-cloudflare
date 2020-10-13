@@ -950,6 +950,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [pingdom.com](http://pingdom.com)
 - [pirateproxy.net](http://pirateproxy.net)
 - [pirateproxy.se](http://pirateproxy.se)
+- [ozvfake.ir](http://ozvfake.ir)
 - [piratestreaming.tv](http://piratestreaming.tv)
 - [pixhost.org](http://pixhost.org)
 - [pjmedia.com](http://pjmedia.com)
